@@ -1,2 +1,2 @@
-# eaxmple
+example
 its a practice example
